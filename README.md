@@ -1,4 +1,7 @@
 # Algorithms
-This repository mainly includes the problems in HackerRank Algorithms section
 
-For more details you can refer ["HackerRank"]https://www.hackerrank.com/ -> ["Algorithms"]https://www.hackerrank.com/domains/algorithms
+**This repository mainly includes the codes that I am solving from the Algorithms section in [HackerRank](https://www.hackerrank.com/dashboard)
+
+Link of HackerRank Algorithms is [here](https://www.hackerrank.com/domains/algorithms)
+
+Link to my profile: [Christy Rachel Philip](https://www.hackerrank.com/christyrachel393)
